@@ -6,7 +6,7 @@ public class Web {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver","C:\\Softwares\\ChromeDriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","/usr/bin/chromedriver");
 		WebDriver driver = new ChromeDriver();
     	
         String baseUrl = "https://www.rsystems.com";
