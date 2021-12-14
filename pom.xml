@@ -41,7 +41,7 @@
                 <version>2.22.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>E:\MyfirstDemo\testng.xml</suiteXmlFile>
+                        <suiteXmlFile>E:\MyfirstDemo\web.java</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
